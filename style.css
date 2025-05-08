@@ -1,0 +1,39 @@
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: linear-gradient(rgba(0,0,30,0.8), rgba(0,0,30,0.8)),
+              url('images/iron-sentry-logo.png') center center no-repeat fixed;
+  background-size: contain;
+  color: #e0e0e0;
+}
+
+header {
+  background-color: #1a1d2b;
+  text-align: center;
+  padding: 1rem;
+}
+
+header img {
+  max-height: 60px;
+  margin-bottom: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #b0c4de;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #1a1d2b;
+  font-size: 0.9rem;
+  color: #aaa;
+}
